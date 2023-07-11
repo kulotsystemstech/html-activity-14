@@ -3,4 +3,8 @@
 .DS_Store
 /src/audio/*
 /src/video/*
+!/src/video/angular-in-100-seconds-by-fireship.mp4
+!/src/video/react-in-100-seconds-by-fireship.mp4
+!/src/video/svelte-in-100-seconds-by-fireship.mp4
+!/src/video/vuejs-in-100-seconds-by-fireship.mp4
 /src/final
